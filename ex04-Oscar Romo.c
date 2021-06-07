@@ -4,18 +4,18 @@ int main(void)^{
 
 int total p1,p2, p3, average=0, value;
 
-pritf("please, input the total: ");
+pritf("please, input total: ");
 scanf("&d", &total);
 
-printf("Please, input the value to people 1: ")
+printf("Please, input the value to person 1: ")
 scanf("&d",&p1);
 
 
-printf("Please, input the value to people 2: ");
+printf("Please, input the value to person 2: ");
 scanf("&d", &p2);
 
 
-printf("Plaese, input the value of people 3: ");
+printf("Plaese, input the value of person 3: ");
 scanf("&d", &p3);
 
 sum = p1+p2+p3;
